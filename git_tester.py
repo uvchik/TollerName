@@ -4,3 +4,5 @@ vorname = "Joe"
 nachname = "Biden"
 
 print("{0} {1} is elected!".format(vorname, nachname))
+
+print("Hallo World!")
